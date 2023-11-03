@@ -23,8 +23,3 @@ Hello, welcome to my homepage! My name is Junhui Zhang. I am currently a postdoc
 
 My research interests are  **the interplay between control, optimization and machine learning with their applications to decision making in cyber-physical systems and safety-critical systems**. Currently, I am **developing safe, reliable and efficient control, optimization, and machine learning methods for power systems**. I am also interested in the **control of connected automated vehicles and robotics.**
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
