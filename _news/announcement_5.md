@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I Will join the University of Michigan--Ann Arborn as a research fellow starting from January, 2024.
+I will join the University of Michigan--Ann Arborn as a research fellow starting from January, 2024. Look forward to the upcoming research on robotics
+at UMich.
