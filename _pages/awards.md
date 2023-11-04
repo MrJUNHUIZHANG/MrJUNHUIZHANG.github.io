@@ -4,7 +4,7 @@ permalink: /awards/
 title: Awards
 description: 
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 - Outstanding Doctoral Dissertation Award by Tongji University, 2021
