@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Gray-box Model
+description: How can we use partial knowledge of systems to improve data-driven model?
+img: assets/img/gray1.jpg
 importance: 1
 category: work
 giscus_comments: true
