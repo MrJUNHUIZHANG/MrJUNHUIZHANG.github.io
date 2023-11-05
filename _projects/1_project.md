@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image 
+title: Reliable Control for Microgrids
+description: How can we guarantee the performances including safety and sparisity during the whole operation process?
 img: assets/img/Micro1.jpg
 importance: 1
 category: work
