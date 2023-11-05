@@ -18,6 +18,7 @@ related_publications: zhang2023novel, zhang2022sparse
 <div class="caption">
    QP-based sparse and safe control
 </div>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/Micro2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -27,7 +28,5 @@ related_publications: zhang2023novel, zhang2022sparse
     Design framework of the sparse and safe control.
 </div>
 
-    </div>
-</div>
 ```
 {% endraw %}
