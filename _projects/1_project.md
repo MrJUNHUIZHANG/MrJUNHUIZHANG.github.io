@@ -10,26 +10,6 @@ related_publications: einstein1956investigations, einstein1950meaning
 
 **Sparse and safe control for Microgrids.** In inverter-intensive microgrids (MGs), the inverters and external grids are expected to reach a synchronized desired frequency under regulations. To this end, the active power set-point acting as a control from a high-level controller is designed while considering two important performance metrics “sparsity” and “safety”, which are to reduce the information exchange between controllers and ensure that the frequency keeps in safety regions during the whole operation process.  <strong><i style="color:#e74d3c">IEEE Transactions on Neural Networks and Learning Systems Our proposed control design framework allows the sparse linear feedback controller (SLFC) to be unified with a family of conditions for safe control using control barrier functions (CBF). </i></strong> A quadratic programming (QP) problem is then constructed, and the real-time control policy is obtained by solving the QP problem. Importantly, we also found that the real-time control for each inverter depends on the cross-layer communication network topology, which is the union of the one between controllers from SLFC and the one determined by the power flow network. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/Micro1.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-4 mt-md-0">
-        {% include figure.html path="assets/img/Micro2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-4 mt-md-0">
-        {% include figure.html path="assets/img/Micro3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Micro2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
