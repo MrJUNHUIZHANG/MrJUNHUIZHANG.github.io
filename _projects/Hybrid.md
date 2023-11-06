@@ -2,7 +2,7 @@
 layout: page
 title: U
 description: a project with a background image
-img: assets/img/Hybrid1.jpg
+img: assets/img/hybrid1.jpg
 importance: 4
 category: work
 ---
