@@ -2,7 +2,7 @@
 layout: page
 title: Security of Cyber-Physical Systems
 description: How can we make resilent decision under malicious attacks?
-img:
+img:img: assets/img/CPS1.jpg
 importance: 3
 category: work
 ---
