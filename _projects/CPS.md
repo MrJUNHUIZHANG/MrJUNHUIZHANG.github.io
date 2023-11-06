@@ -1,24 +1,13 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Security of Cyber-Physical Systems
+description: How can we make resilent decision under malicious attacks?
 img:
 importance: 3
-category: fun
+category: work
 ---
+The research on the security of CPS is essential to guarantee the normal operation of CPS. For denial-of-service (DoS) attacks, we studied the optimal DoS attack schedule problem (ASP) and showed that the optimal strategy is a sequential attack scheme. For deception attacks, we investigated linear-deception ASP for a single system and multiple subsystems, respectively. Moreover, we addressed the optimal cooperative ASP of DoS attacks and deception attacks in the multiple-attacker case. This work expanded the existing results in which only one type of attacker was included. For multiple linear systems with a multi-channel network, we formulated a zero-sum game model to describe the interactive decision-making process between DoS attacker and smart sensors and developed a Nash Q-learning algorithm to solve their Nash equilibrium strategies (NES).
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
