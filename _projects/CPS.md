@@ -5,7 +5,7 @@ description: How can we make resilent decision under malicious attacks?
 img:img: assets/img/CPS1.jpg
 importance: 3
 category: work
-related_publications: zhang2023novel, zhang2022sparse
+related_publications: zhang2022neural, zhang2022sparse
 ---
 The research on the security of CPS is essential to guarantee the normal operation of CPS. For denial-of-service (DoS) attacks, we studied the optimal DoS attack schedule problem (ASP) and showed that the optimal strategy is a sequential attack scheme. For deception attacks, we investigated linear-deception ASP for a single system and multiple subsystems, respectively. Moreover, we addressed the optimal cooperative ASP of DoS attacks and deception attacks in the multiple-attacker case. This work expanded the existing results in which only one type of attacker was included. For multiple linear systems with a multi-channel network, we formulated a zero-sum game model to describe the interactive decision-making process between DoS attacker and smart sensors and developed a Nash Q-learning algorithm to solve their Nash equilibrium strategies (NES).
 
