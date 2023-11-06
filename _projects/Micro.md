@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reliable Control for Microgrids with Guaranteed Performances
-description: How can we guarantee the performances including safety and sparisity during the whole operation process?
+description: How can we guarantee the performances including safety and sparsity during the whole operation process?
 img: assets/img/Micro1.jpg
 importance: 2
 category: work
