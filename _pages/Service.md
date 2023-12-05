@@ -28,6 +28,8 @@ nav_order: 5
   <br>
   IEEE Transactions on Control of Network Systems
   <br>
+  IEEE Transactions on Industry Applications
+  <br>
   IEEE Transactions on Industrial Informatics
   <br>
   IEEE Transactions on Systems, Man and Cybernetics: Systems
