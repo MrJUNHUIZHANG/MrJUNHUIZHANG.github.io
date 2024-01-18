@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I join the University of Michigan--Ann Arbor as a research fellow!
+I start my new journey at the University of Michigan--Ann Arbor as a research fellow!
