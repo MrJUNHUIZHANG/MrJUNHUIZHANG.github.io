@@ -5,7 +5,6 @@ description: How can we use partial knowledge of systems to improve data-driven 
 img: assets/img/gray1.jpg
 importance: 1
 category: work
-giscus_comments: true
 related_publications: zhang2023gray
 ---
 
