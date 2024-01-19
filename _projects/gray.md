@@ -6,6 +6,7 @@ img: assets/img/gray1.jpg
 importance: 1
 category: work
 giscus_comments: true
+related_publication: zhang2023gray
 ---
 
 **Gray-box model for distribution systems.** Inspired by physics-informed machine learning (PINN), we developed a novel gray-box modeling approach for distribution systems with inverter-based resources (IBRs). The proposed gray-box modeling method aims to improve estimation accuracy by taking advantage of both physics-based (white-box) and data-driven (black-box) modeling approaches. To this end, <strong><i style="color:#e74d3c"> the gray-box modeling framework is constructed by encoding prior physical knowledge of the system in a white-box model and then embedding the output of the white-box model into the input of a black-box model (machine learning approach).</i></strong> Furthermore, case studies demonstrate that our gray-box modeling approach effectively improves estimation accuracy compared to purely physics-based or data-driven methods. 
