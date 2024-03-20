@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 3
 ---
-
+- UMPDA Professional Development Award, 2024
 - Purdue Postdoctoral Travel Grant, 2023
 - Outstanding Doctoral Dissertation Award by Shanghai Society of Nonlinear Sciences, 2023
 - Outstanding Doctoral Dissertation Award by Tongji University, 2021
