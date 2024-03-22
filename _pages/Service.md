@@ -36,6 +36,8 @@ nav_order: 5
   <br>
   IEEE Transactions on Industrial Electronics
   <br>
+  IEEE Transactions on Network Science and Engineering
+  <br>
   Systems & Control Letters
   <br>
   Chaos, Solitons and Fractals
