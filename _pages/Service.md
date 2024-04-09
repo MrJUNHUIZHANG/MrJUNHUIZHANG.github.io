@@ -13,6 +13,8 @@ nav_order: 5
 - Member of IEEE Control Systems Society, 2022-Present
 - Member of IEEE Industry Applications Society, 2022-Present
 - Member of the IAS Industrial Power Converters Committee, 2022-Present
+- Member of IEEE Robotics and Automation Technical Committee on Computer & Robot Vision, 2024-Present
+- CAA Member, 2023-Present
 - Assistant for Conference Organization, Annual Meeting of Shanghai Society of Nonlinear Sciences, Oct. 2019             
 - Assistant for Deputy Editor-in-Chief of ISA Transactions, Nov. 2019- Jul. 2020
   <br>
