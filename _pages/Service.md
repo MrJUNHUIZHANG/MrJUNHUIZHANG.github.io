@@ -28,6 +28,8 @@ nav_order: 5
   <br>
   IEEE Transactions on Control Systems Technology
   <br>
+  IEEE Transactions on Intelligent Transportation Systems
+  <br>
   IEEE Transactions on Control of Network Systems
   <br>
   IEEE Transactions on Industry Applications
@@ -39,6 +41,12 @@ nav_order: 5
   IEEE Transactions on Industrial Electronics
   <br>
   IEEE Transactions on Network Science and Engineering
+  <br>
+  IEEE Journal of Emerging and Selected Topics in Power Electronics
+  <br>
+  IEEE Control System Letters
+  <br>
+  IEEE Robotics and Automation Letters
   <br>
   Systems & Control Letters
   <br>
@@ -52,15 +60,7 @@ nav_order: 5
   <br>
   Journal of Modern Power Systems and Clean Energy
   <br>
-  Mathematical Problems in Engineering
-  <br>
   Sensors
-  <br>
-  Future Transportation
-  <br>
-  Sustainability
-  <br>
-  Entropy
   <br>
 - Conference Reviewer:
   <br>
@@ -69,4 +69,6 @@ nav_order: 5
   American Control Conference (ACC)
   <br>
  IEEE Energy Conversion Congress and Exposition (ECCE)
+  <br>
+ IEEE International Conference on Robotics and Automation (ICRA)
   <br>
