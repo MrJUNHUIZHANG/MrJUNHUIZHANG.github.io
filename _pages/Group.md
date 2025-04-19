@@ -6,7 +6,17 @@ description:
 nav: true
 nav_order: 3
 ---
+- **PI**
+  <div style="margin-left: 2em;">
+  [Junhui Zhang](https://github.com/MrJUNHUIZHANG/MrJUNHUIZHANG.github.io/edit/master/_pages/Group.md)
+- **Postdocs** 
+  <div style="margin-left: 2em;">
+  
 - **PhD Students** 
   <div style="margin-left: 2em;">
 
-- **Master Students** 
+- **Master Students**
+  <div style="margin-left: 2em;">
+
+- **Alumni**
+  <div style="margin-left: 2em;">
