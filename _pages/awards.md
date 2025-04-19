@@ -4,7 +4,7 @@ permalink: /awards/
 title: Awards
 description: 
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 - UMPDA Professional Development Award, 2024
 - Purdue Postdoctoral Travel Grant, 2023
