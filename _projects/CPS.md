@@ -3,7 +3,7 @@ layout: page
 title: Security of Cyber-Physical Systems
 description: How can we make resilient decision under malicious environments?
 img: assets/img/CPS1.jpg
-importance: 3
+importance: 4
 category: work
 related_publications: zhang2022neural, zhang2022stochastic, zhang2021optimal1, zhang2021optimal2, zhang2020optimal, zhang2019game
 ---
