@@ -3,7 +3,7 @@ layout: page
 title: Gray-box Model
 description: How can we use partial knowledge of systems to improve data-driven model?
 img: assets/img/gray1.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: zhang2023gray
 ---
