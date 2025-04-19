@@ -8,7 +8,7 @@ nav_order: 3
 ---
 - **PI**
   <div style="margin-left: 2em;">
-  [Junhui Zhang](https://github.com/MrJUNHUIZHANG/MrJUNHUIZHANG.github.io/edit/master/_pages/Group.md)
+  [Junhui Zhang](https://mrjunhuizhang.github.io/))
 - **Postdocs** 
   <div style="margin-left: 2em;">
   
