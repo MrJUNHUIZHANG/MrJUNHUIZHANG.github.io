@@ -3,7 +3,7 @@ layout: page
 title: Unified Mathematics for Hybrid Systems
 description: How can we use a unified mathematical language to study hybrid systems?
 img: assets/img/hybrid1.jpg
-importance: 4
+importance: 5
 category: work
 related_publications: zhang2018exponential,zhang2019stabilization
 ---
