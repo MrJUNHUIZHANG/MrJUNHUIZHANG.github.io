@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Motion Plannning of Robot
+title: Motion Planning of Robot
 description: How can we ensure the safe movement of autonomous systems in a multi-agent environment?"
 img: assets/img/Conformal1.png
 importance: 1
