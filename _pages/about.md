@@ -24,3 +24,5 @@ Before joining Nanjing University, I was a Research Fellow in the Department of 
 
 My research interests are  **the intersection between control, optimization, machine learning and formal methods with their applications to decision making in cyber-physical systems and safety-critical systems, including robotics, power systems, and connected and autonomous vehicles. Currently, I am developing Safe and Reliable AI-Embeded Autonomy.**
 
+**[<span style="color:red">Join us</span>]**  I am always looking for self-motivated students to join our group at all levels, including PhD students, Master’s students, and research assistants (both remote and onsite). Our research is highly interdisciplinary, and we welcome students with diverse backgrounds in control, robotics, AI, transportation, applied mathematics, and computer science.
+
