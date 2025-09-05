@@ -26,3 +26,5 @@ My research interests are  **the intersection between control, optimization, mac
 
 **[<span style="color:red">Join us</span>]**  I am always looking for self-motivated students to join our group at all levels, including PhD students, Master’s students, and research assistants (both remote and onsite). Our research is highly interdisciplinary, and we welcome students with diverse backgrounds in control, robotics, AI, transportation, applied mathematics, and computer science.
 
+**<span style="color:blue"><em>Work for Life: work hard and play harder!</em></span>**
+
