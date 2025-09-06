@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 4
 ---
+- Nanjing University Summit Talent Support Program, Level B, 2025
 - UMPDA Professional Development Award, 2024
 - Purdue Postdoctoral Travel Grant, 2023
 - Outstanding Doctoral Dissertation Award by Shanghai Society of Nonlinear Sciences, 2023
