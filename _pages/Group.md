@@ -13,7 +13,8 @@ nav_order: 1
   &nbsp;&nbsp;&nbsp;&nbsp;TBD
 
 - **PhD Students**  
-  &nbsp;&nbsp;&nbsp;&nbsp;TBD<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Jiaxuan Li]<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Yunlin Wei]
 
 - **Master Students**  
   &nbsp;&nbsp;&nbsp;&nbsp;TBD
