@@ -7,8 +7,6 @@ nav: true
 nav_order: 1
 ---
 
-## About the Lab
-
 Welcome to the **Trustworthy Robotics Lab (TRL)** in the **School of Robotics and Automation** at **Nanjing University**, directed by [**Dr. Junhui Zhang**](https://mrjunhuizhang.github.io/).  
 
 ## Research Vision
