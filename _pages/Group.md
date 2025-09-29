@@ -13,8 +13,9 @@ Welcome to the **Trustworthy Robotics Lab (TRL)** in the **School of Robotics an
 
 ## Research Vision
 
-Our mission is to develop **safe, reliable, and intelligent robotic systems** that can operate **autonomously in complex, uncertain, and dynamic environments**.  
-We integrate **control theory**, **machine learning**, and **formal methods** to design **next-generation trustworthy robotic technologies** that significantly enhance the autonomy, safety, and robustness of robotic systems — enabling their deployment in **real-world applications** ranging from autonomous vehicles and aerial robots to collaborative robotic systems.
+Our mission is to develop **safe, reliable, and intelligent robotic systems** that can operate **autonomously in complex, uncertain, and dynamic environments**.  By integrating **control theory, machine learning, and formal methods**, we aim to design **next-generation trustworthy robotic technologies** that significantly advance the capabilities of autonomous systems and enable their deployment in **real-world applications**.
+
+
 
 ## Members
 
