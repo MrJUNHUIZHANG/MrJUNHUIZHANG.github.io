@@ -6,7 +6,13 @@ description:
 nav: true
 nav_order: 1
 ---
-- **PI**  
+
+# Trustworthy Robotics Lab (TRL)
+
+Welcome to the Trustworthy Robotics Lab (TRL) in the School of Robotics and Automation at Nanjing University, led by Dr. Junhui Zhang.
+Our research aims to develop safe, reliable, and intelligent robotic systems capable of operating autonomously in complex, uncertain, and dynamic environments. By integrating control theory, machine learning, and formal methods, we design next-generation trustworthy robotic technologies that advance the capabilities of autonomous systems and enable their deployment in real-world applications.
+
+- **PI**
   &nbsp;&nbsp;&nbsp;&nbsp;[Junhui Zhang](https://mrjunhuizhang.github.io/)
 
 - **Postdocs**  
