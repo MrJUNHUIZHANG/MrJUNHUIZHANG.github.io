@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /group/
+permalink: /Lab/
 title: Trustworthy Robotics Lab
 description:
 nav: true
