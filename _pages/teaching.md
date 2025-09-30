@@ -51,3 +51,57 @@ p { line-height: 1.55; margin: 6px 0 10px; }
   h2{ font-size: 20px; } h3{ font-size: 17px; }
 }
 </style>
+
+<div class="trl-wrap">
+
+  <h1 class="trl-title">Trustworthy Robotics Lab</h1>
+
+  <p>
+    Welcome to the <strong>Trustworthy Robotics Lab (TRL)</strong> in the 
+    <strong>School of Robotics and Automation</strong> at <strong>Nanjing University</strong>, 
+    directed by <a href="https://mrjunhuizhang.github.io/"><strong>Dr. Junhui Zhang</strong></a>.
+  </p>
+
+  <div class="trl-card">
+    <h2>🚀 Research Vision</h2>
+    <p>
+      Our mission is to develop <strong>safe, reliable, and intelligent robotic systems</strong> 
+      that can operate <strong>autonomously in complex, uncertain, and dynamic environments</strong>. 
+      By integrating <strong>control theory, machine learning, and formal methods</strong>, 
+      we aim to design <strong>next-generation trustworthy robotic technologies</strong> that 
+      significantly advance the capabilities of autonomous systems and enable their deployment 
+      in <strong>real-world applications</strong>.
+    </p>
+  </div>
+
+  <div class="trl-card">
+    <h2>👥 Members</h2>
+
+    <h3>Principal Investigator (PI)</h3>
+    <ul class="trl-list">
+      <li><span class="trl-name"><a href="https://mrjunhuizhang.github.io/">Junhui Zhang</a></span> <span class="trl-role">Principal Investigator</span></li>
+    </ul>
+
+    <h3>Postdoctoral Researchers</h3>
+    <ul class="trl-list">
+      <li><span class="trl-name">TBD</span></li>
+    </ul>
+
+    <h3>Ph.D. Students</h3>
+    <ul class="trl-list">
+      <li><span class="trl-name">Jiaxuan Li</span> <span class="trl-role">(2026.9–)</span></li>
+      <li><span class="trl-name">Yunlin Wei</span> <span class="trl-role">(2026.9–)</span></li>
+    </ul>
+
+    <h3>Master’s Students</h3>
+    <ul class="trl-list">
+      <li><span class="trl-name">TBD</span></li>
+    </ul>
+
+    <h3>Alumni</h3>
+    <ul class="trl-list">
+      <li><span class="trl-name">TBD</span></li>
+    </ul>
+  </div>
+
+</div>
