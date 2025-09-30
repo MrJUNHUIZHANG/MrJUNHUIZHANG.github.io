@@ -79,7 +79,7 @@ p { line-height: 1.55; margin: 6px 0 10px; }
 
     <h3>Principal Investigator (PI)</h3>
     <ul class="trl-list">
-      <li><span class="trl-name"><a href="https://mrjunhuizhang.github.io/">Junhui Zhang</a></span> <span class="trl-role">Principal Investigator</span></li>
+      <li><span class="trl-name"><a href="https://mrjunhuizhang.github.io/">Junhui Zhang</a></span> <span class="trl-role"></span></li>
     </ul>
 
     <h3>Postdoctoral Researchers</h3>
