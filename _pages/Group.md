@@ -3,7 +3,7 @@ layout: page
 permalink: /group/
 title: Trustworthy Robotics Lab
 description: 
-nav: false
+nav: true
 nav_order: 1
 ---
 
