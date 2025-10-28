@@ -96,6 +96,7 @@ p { line-height: 1.55; margin: 6px 0 10px; }
     <h3>Master’s Students</h3>
     <ul class="trl-list">
       <li><span class="trl-name">TBD</span></li>
+      <li><span class="trl-name">Shanghan Liu</span> <span class="trl-role">(2026.9–)</span></li>
     </ul>
 
     <h3>Alumni</h3>
