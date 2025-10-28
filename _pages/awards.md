@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 4
 ---
+- 2024 Jiangsu Provincial Natural Science Award (Third Prize), Team Rank: 3rd， 2025
 - Nanjing University Summit Talent Support Program, Level B, 2025
 - UMPDA Professional Development Award, 2024
 - Purdue Postdoctoral Travel Grant, 2023
